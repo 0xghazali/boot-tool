@@ -12,6 +12,9 @@ Go to Boot Menu
 
 Cancel
 
+...
+
+
 Direct reboot into Advanced Boot Options.
 
 Works on all modern Windows versions (Windows 10/11 recommended).
@@ -26,11 +29,15 @@ Download or compile BootTool.exe.
 
 Double-click to run.
 
+...
+
 Choose:
 
 Go to Boot Menu → System restarts and opens Boot Menu.
 
 Cancel → Program closes.
+
+...
 
 ⚠️ Notes
 
