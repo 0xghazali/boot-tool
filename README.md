@@ -46,3 +46,5 @@ Direct BIOS entry is not supported (Legacy limitation).
 Tool only focuses on Boot Menu access.
 
 Run as Administrator for smooth operation.
+
+Video >> https://youtu.be/4cZBlLnxA3g
